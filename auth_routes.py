@@ -10,3 +10,4 @@ async def autent():
     
     """
     return {"msg":"rota autenticacao","autenticado":False}
+
